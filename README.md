@@ -22,6 +22,8 @@ This dashboard offers insights into various aspects including 📝:-
 
 Special thanks to Joshua Matlock - MHA, CPHQ for his guidance on this project 👨‍🏫.
 
+Tableau Link: https://lnkd.in/gSGEGB8Q
+
 ![Executive Summary](https://github.com/akhilkn27/The-Emergency-Room-Dashboard/blob/main/1709202752295.jpg)
 
 
