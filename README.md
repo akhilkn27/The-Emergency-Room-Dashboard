@@ -1,7 +1,5 @@
 # The-Emergency-Room-Dashboard
 
-I'm delighted to announce the launch of my latest Tableau dashboard ✈, titled "The Emergency Room Dashboard 🏥".
-
 This dashboard offers insights into various aspects including 📝:-
 
 🏷 Total number of Patients visited.
